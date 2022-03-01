@@ -1,5 +1,5 @@
 # image-recognition-jupyter
-Jupyter notebook version of [image-recognition-dl-model][image-recog-github-link] using [ipywidgets][ipywidgetLink] and [ipycanvas][ipycanvasLink] for the UI
+Jupyter notebook port of [image-recognition-dl-model][image-recog-github-link] using [ipywidgets][ipywidgetLink] and [ipycanvas][ipycanvasLink] for the UI
 
 Currently a work-in-progress, completion TBD
 
